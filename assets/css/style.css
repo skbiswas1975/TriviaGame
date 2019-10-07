@@ -1,0 +1,44 @@
+.jumbo{
+	margin-bottom: 3px! Important;
+	padding-bottom: 25px! Important;
+	padding-top: 5px! Important;
+}
+
+.bg{
+	background-color: #3d4142;
+}
+
+.questionArea{
+	background-color: #886943;
+    color: #fff;
+	min-height: 250px;
+}
+
+.optionArea{
+	width: 60%;
+    margin: 0 auto;
+}
+
+.answerArea{
+	width: 60%;
+	margin: 0 auto;
+	text-align: left;
+}
+
+.choice{
+	border: 1px solid lightgrey;
+	padding: 10px;
+	border-radius: 4px;
+	cursor: pointer;
+}
+
+.btn-primary{
+	width: 50%! Important;
+    font-size: 30px! Important;
+    margin-top: 10%! Important;
+	white-space: normal!Important;
+}
+
+.img{
+	width: 50%!Important;
+}
